@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://github.com/jennifernieto03/jennifernieto03/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jennifernieto03/jennifernieto03/output/snake.svg" alt="Snake animation" />
 
 ###
